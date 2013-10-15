@@ -21,7 +21,7 @@ No bullshit:  This script patches jQuery Mobile touch events into Batman.js.
 - `data-event-tap`
 - `data-event-taphold`
 - `data-event-swipe`
-- `data-event-swipleft`
-- `data-event-swipright`
+- `data-event-swipeleft`
+- `data-event-swiperight`
 - `data-event-scrollstart`
 - `data-event-scrollstop`
