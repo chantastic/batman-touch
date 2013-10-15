@@ -1,0 +1,26 @@
+{
+  "name": "batman-touch",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chantastic/batman-touch",
+  "authors": [
+    "Michael Chan <mijoch@gmail.com>"
+  ],
+  "description": "A jQuery Mobile touch-events extension for Batman.js",
+  "main": "./batman.touch.coffee",
+  "keywords": [
+    "Batman.js",
+    "batman",
+    "jQuery",
+    "jquery",
+    "mobile",
+    "touch"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
