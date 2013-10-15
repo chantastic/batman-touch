@@ -1,6 +1,6 @@
 ## Batman Touch
 
-No bullshit.  This script patches jQuery Mobile touch events into Batman.js.
+No bullshit:  This script patches jQuery Mobile touch events into Batman.js.
 
 ### What you need
 - [Batman.js](https://github.com/batmanjs/batman)
@@ -17,7 +17,11 @@ No bullshit.  This script patches jQuery Mobile touch events into Batman.js.
 ### The easy button
 - `bower install batman-touch`
 
-### OOPS! Look at all the code I'm NOT writing
+### Get it
 - `data-event-tap`
-- `data-event-swipeft`
-- [etc...](http://api.jquerymobile.com/category/events/)
+- `data-event-taphold`
+- `data-event-swipe`
+- `data-event-swipleft`
+- `data-event-swipright`
+- `data-event-scrollstart`
+- `data-event-scrollstop`
